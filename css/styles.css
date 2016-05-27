@@ -3479,6 +3479,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/han.jpg");
 }
 
+#ashley-pereira-cover {
+  background-image: url(http://imgur.com/4k8N8aK);
+}
+
+#ashley-pereira-card {
+  background-image: url(http://imgur.com/Ex5xJcz);
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
